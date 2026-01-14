@@ -46,11 +46,6 @@ Clone the repository (or download the file)
 
 Bash
 
-git clone https://github.com/[your-username]/search-visualizer.git
-Navigate to project directory
-
-Bash
-
 cd search-visualizer
 Run the application
 
@@ -83,4 +78,4 @@ Toggle Theme — Click the Sun/Moon icon in the top right to switch themes.
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software with proper attribution.
 
 # 👨‍💻 Author #
-Atharva Pisal
+# Atharva Pisal #
